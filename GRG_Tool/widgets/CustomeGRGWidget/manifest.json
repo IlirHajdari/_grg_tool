@@ -1,0 +1,8 @@
+{
+  "name": "CustomGRGWidget",
+  "label": "Custom GRG Widget",
+  "platform": "HTML",
+  "version": "1.0",
+  "author": "Your Name",
+  "description": "A custom widget for generating GRG in ArcGIS Online."
+}
