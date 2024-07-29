@@ -211,12 +211,12 @@
       {
         "uri": "widgets/CustomGRGWidget/Widget",
         "position": {
-          "left": 105,
-          "top": 45,
+          "left": 55,
+          "top": 55,
           "relativeTo": "map"
         },
         "version": "2.31",
-        "id": "widgets_CustomGRGWidget_Widget_20",
+        "id": "widgets_CustomGRGWidget_Widget",
         "name": "CustomGRGWidget"
       }
     ],
@@ -280,6 +280,13 @@
         "id": "widgets_LayerList_Widget_19",
         "name": "LayerList",
         "index": 1
+      },
+      {
+        "uri": "widgets/CustomGRGWidget/Widget",
+        "version": "2.31",
+        "id": "widgets_CustomGRGWidget_Widget",
+        "name": "CustomGRGWidget",
+        "index": 2
       }
     ]
   },
