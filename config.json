@@ -207,6 +207,17 @@
         "version": "2.31",
         "id": "widgets_FullScreen_Widget_17",
         "name": "FullScreen"
+      },
+      {
+        "uri": "widgets/CustomGRGWidget/Widget",
+        "position": {
+          "left": 105,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "version": "2.31",
+        "id": "widgets_CustomGRGWidget_Widget_20",
+        "name": "CustomGRGWidget"
       }
     ],
     "panel": {
